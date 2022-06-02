@@ -1,0 +1,16 @@
+discord_token
+venv/
+__pycache__/
+old/
+discord.py/
+data/
+config.py
+db_testing.py
+color_average.py
+*~
+*.swp
+.*.swp
+*.swo
+*tar.gz
+*.txt
+*.db
